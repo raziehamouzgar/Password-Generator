@@ -6,6 +6,9 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
+.mydiv{
+font-size: 2rem;
+}
 body{
   display: flex;
   align-items: center;
